@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rimo Tech Login</string>
+    <string name="welcome_text">welcome Back !</string>
+    <string name="email">What\'s your Email</string>
+    <string name="password">What\'s your Password?</string>
+    <string name="login">Login</string>
+    <string name="no_account">Don\'t Have an Account?</string>
+</resources>
